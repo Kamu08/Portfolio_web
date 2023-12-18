@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-Welcome to my digital space! I'm [Kamal Sharma], a passionate and creative [Frontend Developer]. This portfolio is a curated showcase of my projects, experiences, and the skills I bring to the table.
+Welcome to my digital space! I'm **Kamal Sharma**, a passionate and creative Frontend Developer. This portfolio is a curated showcase of my projects, experiences, and the skills I bring to the table.
 
 ## 🚀 What's Inside?
 
